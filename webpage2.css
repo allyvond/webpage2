@@ -41,7 +41,7 @@ h2 {
 
 #about {
     margin: 5%;
-    border: 3px dashed #FF0000;
+    border: 3px dashed rgba(255,0,0);
     padding: 100px;
     background-color: #FFB4ED;
     list-style: circle;
